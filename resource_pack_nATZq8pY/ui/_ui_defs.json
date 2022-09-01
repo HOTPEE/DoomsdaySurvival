@@ -1,0 +1,7 @@
+{
+    "ui_defs": [
+        "ui/button.json",
+        "ui/panel.json",
+        "ui/store.json"
+    ]
+}

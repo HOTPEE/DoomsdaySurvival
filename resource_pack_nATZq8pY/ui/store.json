@@ -1,0 +1,644 @@
+{
+   "button0@common.button" : {
+      "$control_alpha" : 1.0,
+      "$default_texture" : "textures/ui/background",
+      "$hover_texture" : "textures/netease/common/button/hover",
+      "$is_new_nine_slice" : true,
+      "$label_color" : [ 0.3333333333333333, 0.0, 1.0 ],
+      "$label_font_scale_factor" : 1.049999952316284,
+      "$label_font_size" : "normal",
+      "$label_layer" : 3,
+      "$label_offset" : [ 0, 0 ],
+      "$label_text" : "点击购买",
+      "$nine_slice_buttom" : 0,
+      "$nine_slice_left" : 0,
+      "$nine_slice_right" : 0,
+      "$nine_slice_top" : 0,
+      "$nineslice_size" : [ 0, 0, 0, 0 ],
+      "$pressed_button_name" : "%store.click",
+      "$pressed_texture" : "textures/netease/common/button/hover",
+      "$texture_layer" : 2,
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "bindings" : [
+         {
+            "binding_collection_name" : "",
+            "binding_condition" : "always_when_visible",
+            "binding_type" : "collection_details"
+         }
+      ],
+      "button_mappings" : [],
+      "clip_offset" : [ 0, 0 ],
+      "clips_children" : false,
+      "controls" : [
+         {
+            "default@store.default" : {}
+         },
+         {
+            "hover@store.hover" : {}
+         },
+         {
+            "pressed@store.pressed" : {}
+         },
+         {
+            "button_label@store.button_label" : {}
+         }
+      ],
+      "draggable" : "not_draggable",
+      "enabled" : true,
+      "is_handle_button_move_event" : true,
+      "layer" : 9,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "offset" : [ 0.0, 26.0 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "size" : [ 70, 10 ],
+      "visible" : true
+   },
+   "button1@common.button" : {
+      "$control_alpha" : 1.0,
+      "$default_texture" : "textures/ui/X",
+      "$hover_texture" : "textures/netease/common/button/hover",
+      "$is_new_nine_slice" : true,
+      "$label_color" : [ 1, 1, 1 ],
+      "$label_font_scale_factor" : 1.0,
+      "$label_font_size" : "large",
+      "$label_layer" : 3,
+      "$label_offset" : [ 0, 0 ],
+      "$label_text" : "",
+      "$nine_slice_buttom" : 0,
+      "$nine_slice_left" : 0,
+      "$nine_slice_right" : 0,
+      "$nine_slice_top" : 0,
+      "$nineslice_size" : [ 0, 0, 0, 0 ],
+      "$pressed_button_name" : "%store.click",
+      "$pressed_texture" : "textures/ui/X_",
+      "$texture_layer" : 2,
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "bindings" : [
+         {
+            "binding_collection_name" : "",
+            "binding_condition" : "always_when_visible",
+            "binding_type" : "collection_details"
+         }
+      ],
+      "button_mappings" : [],
+      "clip_offset" : [ 0, 0 ],
+      "clips_children" : false,
+      "controls" : [
+         {
+            "default@store.default" : {}
+         },
+         {
+            "hover@store.hover" : {}
+         },
+         {
+            "pressed@store.pressed" : {}
+         },
+         {
+            "button_label@store.button_label" : {}
+         }
+      ],
+      "draggable" : "not_draggable",
+      "enabled" : true,
+      "is_handle_button_move_event" : true,
+      "layer" : 13,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "offset" : [ 142.0, -100.0 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "size" : [ 18, 16 ],
+      "visible" : true
+   },
+   "button2@common.button" : {
+      "$control_alpha" : 1.0,
+      "$default_texture" : "textures/ui/background",
+      "$hover_texture" : "textures/netease/common/button/hover",
+      "$is_new_nine_slice" : true,
+      "$label_color" : [ 0.3333333333333333, 0.0, 1.0 ],
+      "$label_font_scale_factor" : 1.049999952316284,
+      "$label_font_size" : "normal",
+      "$label_layer" : 3,
+      "$label_offset" : [ 0, 0 ],
+      "$label_text" : "点击购买",
+      "$nine_slice_buttom" : 0,
+      "$nine_slice_left" : 0,
+      "$nine_slice_right" : 0,
+      "$nine_slice_top" : 0,
+      "$nineslice_size" : [ 0, 0, 0, 0 ],
+      "$pressed_button_name" : "%store.click",
+      "$pressed_texture" : "textures/netease/common/button/hover",
+      "$texture_layer" : 2,
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "bindings" : [
+         {
+            "binding_collection_name" : "",
+            "binding_condition" : "always_when_visible",
+            "binding_type" : "collection_details"
+         }
+      ],
+      "button_mappings" : [],
+      "clip_offset" : [ 0, 0 ],
+      "clips_children" : false,
+      "controls" : [
+         {
+            "default@store.default" : {}
+         },
+         {
+            "hover@store.hover" : {}
+         },
+         {
+            "pressed@store.pressed" : {}
+         },
+         {
+            "button_label@store.button_label" : {}
+         }
+      ],
+      "draggable" : "not_draggable",
+      "enabled" : true,
+      "is_handle_button_move_event" : true,
+      "layer" : 22,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "offset" : [ 0.0, 26.0 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "size" : [ 70, 10 ],
+      "visible" : true
+   },
+   "button_label" : {
+      "alpha" : "$control_alpha",
+      "color" : "$label_color",
+      "font_scale_factor" : "$label_font_scale_factor",
+      "font_size" : "$label_font_size",
+      "font_type" : "smooth",
+      "layer" : "$label_layer",
+      "max_size" : [ "100%", "100%" ],
+      "offset" : "$label_offset",
+      "shadow" : false,
+      "text" : "$label_text",
+      "text_alignment" : "center",
+      "type" : "label"
+   },
+   "default" : {
+      "alpha" : "$control_alpha",
+      "is_new_nine_slice" : "$is_new_nine_slice",
+      "layer" : "$texture_layer",
+      "nine_slice_buttom" : "$nine_slice_buttom",
+      "nine_slice_left" : "$nine_slice_left",
+      "nine_slice_right" : "$nine_slice_right",
+      "nine_slice_top" : "$nine_slice_top",
+      "nineslice_size" : "$nineslice_size",
+      "texture" : "$default_texture",
+      "type" : "image"
+   },
+   "hover" : {
+      "alpha" : "$control_alpha",
+      "is_new_nine_slice" : "$is_new_nine_slice",
+      "layer" : "$texture_layer",
+      "nine_slice_buttom" : "$nine_slice_buttom",
+      "nine_slice_left" : "$nine_slice_left",
+      "nine_slice_right" : "$nine_slice_right",
+      "nine_slice_top" : "$nine_slice_top",
+      "nineslice_size" : "$nineslice_size",
+      "texture" : "$hover_texture",
+      "type" : "image"
+   },
+   "image0" : {
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "clip_direction" : "left",
+      "clip_offset" : [ 0, 0 ],
+      "clip_ratio" : 0.0,
+      "clips_children" : false,
+      "enabled" : true,
+      "fill" : true,
+      "grayscale" : false,
+      "is_new_nine_slice" : false,
+      "keep_ratio" : false,
+      "layer" : 1,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "nine_slice_buttom" : 0,
+      "nine_slice_left" : 0,
+      "nine_slice_right" : 0,
+      "nine_slice_top" : 0,
+      "nineslice_size" : [ 0, 0, 0, 0 ],
+      "offset" : [ -0.50, -32.0 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "size" : [ 245, 84 ],
+      "texture" : "textures/ui/background",
+      "type" : "image",
+      "uv" : [ 0, 0 ],
+      "uv_size" : [ 1059, 686 ],
+      "visible" : true
+   },
+   "image1" : {
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "clip_direction" : "left",
+      "clip_offset" : [ 0, 0 ],
+      "clip_ratio" : 0.0,
+      "clips_children" : false,
+      "controls" : [
+         {
+            "label0@store.label0" : {}
+         }
+      ],
+      "enabled" : true,
+      "fill" : true,
+      "grayscale" : false,
+      "is_new_nine_slice" : false,
+      "keep_ratio" : false,
+      "layer" : 2,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "nine_slice_buttom" : 0,
+      "nine_slice_left" : 0,
+      "nine_slice_right" : 0,
+      "nine_slice_top" : 0,
+      "nineslice_size" : [ 0, 0, 0, 0 ],
+      "offset" : [ -1.0, -85.50 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "size" : [ 270, 11 ],
+      "texture" : "textures/ui/background",
+      "type" : "image",
+      "uv" : [ 0, 0 ],
+      "uv_size" : [ 1059, 686 ],
+      "visible" : true
+   },
+   "image2" : {
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "clip_direction" : "left",
+      "clip_offset" : [ 0, 0 ],
+      "clip_ratio" : 0.0,
+      "clips_children" : false,
+      "controls" : [
+         {
+            "item_renderer0@store.item_renderer0" : {}
+         },
+         {
+            "label1@store.label1" : {}
+         },
+         {
+            "label2@store.label2" : {}
+         },
+         {
+            "button0@store.button0" : {}
+         }
+      ],
+      "enabled" : true,
+      "fill" : true,
+      "grayscale" : false,
+      "is_new_nine_slice" : false,
+      "keep_ratio" : false,
+      "layer" : 5,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "nine_slice_buttom" : 0,
+      "nine_slice_left" : 0,
+      "nine_slice_right" : 0,
+      "nine_slice_top" : 0,
+      "nineslice_size" : [ 0, 0, 0, 0 ],
+      "offset" : [ -0.50, 0.50 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "size" : [ 81, 67 ],
+      "texture" : "textures/ui/background",
+      "type" : "image",
+      "uv" : [ 0, 0 ],
+      "uv_size" : [ 1059, 686 ],
+      "visible" : true
+   },
+   "image3" : {
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "clip_direction" : "left",
+      "clip_offset" : [ 0, 0 ],
+      "clip_ratio" : 0.0,
+      "clips_children" : false,
+      "controls" : [
+         {
+            "item_renderer1@store.item_renderer1" : {}
+         },
+         {
+            "label3@store.label3" : {}
+         },
+         {
+            "label4@store.label4" : {}
+         },
+         {
+            "button2@store.button2" : {}
+         }
+      ],
+      "enabled" : true,
+      "fill" : true,
+      "grayscale" : false,
+      "is_new_nine_slice" : false,
+      "keep_ratio" : false,
+      "layer" : 18,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "nine_slice_buttom" : 0,
+      "nine_slice_left" : 0,
+      "nine_slice_right" : 0,
+      "nine_slice_top" : 0,
+      "nineslice_size" : [ 0, 0, 0, 0 ],
+      "offset" : [ 0.50, 0.50 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "size" : [ 81, 67 ],
+      "texture" : "textures/ui/background",
+      "type" : "image",
+      "uv" : [ 0, 0 ],
+      "uv_size" : [ 1059, 686 ],
+      "visible" : true
+   },
+   "item_renderer0" : {
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "clip_offset" : [ 0, 0 ],
+      "clips_children" : false,
+      "enabled" : true,
+      "layer" : 6,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "offset" : [ -1.50, -13.50 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "property_bag" : {
+         "#item_id_aux" : 27918336
+      },
+      "renderer" : "inventory_item_renderer",
+      "size" : [ 37, 35 ],
+      "type" : "custom",
+      "visible" : true
+   },
+   "item_renderer1" : {
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "clip_offset" : [ 0, 0 ],
+      "clips_children" : false,
+      "enabled" : true,
+      "layer" : 19,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "offset" : [ -1.50, -13.50 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "property_bag" : {
+         "#item_id_aux" : 27918336
+      },
+      "renderer" : "inventory_item_renderer",
+      "size" : [ 37, 35 ],
+      "type" : "custom",
+      "visible" : true
+   },
+   "label0" : {
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "clip_offset" : [ 0, 0 ],
+      "clips_children" : false,
+      "color" : [ 1, 1, 1 ],
+      "enabled" : true,
+      "font_scale_factor" : 1.0,
+      "font_size" : "normal",
+      "font_type" : "smooth",
+      "layer" : 3,
+      "line_padding" : 0.0,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "offset" : [ -3.0, 0.50 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "shadow" : false,
+      "size" : [ 250, 11 ],
+      "text" : "生存点数商店",
+      "text_alignment" : "center",
+      "type" : "label",
+      "visible" : true
+   },
+   "label1" : {
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "clip_offset" : [ 0, 0 ],
+      "clips_children" : false,
+      "color" : [ 1, 1, 1 ],
+      "enabled" : true,
+      "font_scale_factor" : 1.0,
+      "font_size" : "normal",
+      "font_type" : "smooth",
+      "layer" : 7,
+      "line_padding" : 0.0,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "offset" : [ 0.0, 10.0 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "shadow" : false,
+      "size" : [ 82, 10 ],
+      "text" : "净化之药 [50点]",
+      "text_alignment" : "center",
+      "type" : "label",
+      "visible" : true
+   },
+   "label2" : {
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "clip_offset" : [ 0, 0 ],
+      "clips_children" : false,
+      "color" : [ 1, 1, 1 ],
+      "enabled" : true,
+      "font_scale_factor" : 0.5899999737739563,
+      "font_size" : "normal",
+      "font_type" : "smooth",
+      "layer" : 8,
+      "line_padding" : 0.0,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "offset" : [ 0.0, 19.0 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "shadow" : false,
+      "size" : [ 82, 10 ],
+      "text" : "购买后立即减少 百分之50 的感染值",
+      "text_alignment" : "center",
+      "type" : "label",
+      "visible" : true
+   },
+   "label3" : {
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "clip_offset" : [ 0, 0 ],
+      "clips_children" : false,
+      "color" : [ 1, 1, 1 ],
+      "enabled" : true,
+      "font_scale_factor" : 1.0,
+      "font_size" : "normal",
+      "font_type" : "smooth",
+      "layer" : 20,
+      "line_padding" : 0.0,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "offset" : [ 0.0, 10.0 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "shadow" : false,
+      "size" : [ 82, 10 ],
+      "text" : "恶意之药 [100点]",
+      "text_alignment" : "center",
+      "type" : "label",
+      "visible" : true
+   },
+   "label4" : {
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "clip_offset" : [ 0, 0 ],
+      "clips_children" : false,
+      "color" : [ 1, 1, 1 ],
+      "enabled" : true,
+      "font_scale_factor" : 0.5899999737739563,
+      "font_size" : "normal",
+      "font_type" : "smooth",
+      "layer" : 21,
+      "line_padding" : 0.0,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "offset" : [ 0.0, 19.0 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "shadow" : false,
+      "size" : [ 82, 10 ],
+      "text" : "购买后立即增加 百分之50 的恶意值",
+      "text_alignment" : "center",
+      "type" : "label",
+      "visible" : true
+   },
+   "main" : {
+      "absorbs_input" : true,
+      "always_accepts_input" : false,
+      "controls" : [
+         {
+            "panel0@store.panel0" : {}
+         }
+      ],
+      "force_render_below" : false,
+      "is_showing_menu" : true,
+      "render_game_behind" : true,
+      "render_only_when_topmost" : true,
+      "should_steal_mouse" : false,
+      "type" : "screen"
+   },
+   "namespace" : "store",
+   "panel0" : {
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "clip_offset" : [ 0, 0 ],
+      "clips_children" : false,
+      "controls" : [
+         {
+            "image0@store.image0" : {}
+         },
+         {
+            "image1@store.image1" : {}
+         },
+         {
+            "shangpin1@store.shangpin1" : {}
+         },
+         {
+            "button1@store.button1" : {}
+         },
+         {
+            "shangpin2@store.shangpin2" : {}
+         }
+      ],
+      "enabled" : true,
+      "layer" : 0,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "offset" : [ 6.0, 28.0 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "size" : [ 244, 166 ],
+      "type" : "panel",
+      "visible" : true
+   },
+   "pressed" : {
+      "alpha" : "$control_alpha",
+      "is_new_nine_slice" : "$is_new_nine_slice",
+      "layer" : "$texture_layer",
+      "nine_slice_buttom" : "$nine_slice_buttom",
+      "nine_slice_left" : "$nine_slice_left",
+      "nine_slice_right" : "$nine_slice_right",
+      "nine_slice_top" : "$nine_slice_top",
+      "nineslice_size" : "$nineslice_size",
+      "texture" : "$pressed_texture",
+      "type" : "image"
+   },
+   "shangpin1" : {
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "clip_offset" : [ 0, 0 ],
+      "clips_children" : false,
+      "controls" : [
+         {
+            "image2@store.image2" : {}
+         }
+      ],
+      "enabled" : true,
+      "layer" : 4,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "offset" : [ -45.0, -33.50 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "size" : [ 82, 69 ],
+      "type" : "panel",
+      "visible" : true
+   },
+   "shangpin2" : {
+      "alpha" : 1.0,
+      "anchor_from" : "center",
+      "anchor_to" : "center",
+      "clip_offset" : [ 0, 0 ],
+      "clips_children" : false,
+      "controls" : [
+         {
+            "image3@store.image3" : {}
+         }
+      ],
+      "enabled" : true,
+      "layer" : 17,
+      "max_size" : [ 0, 0 ],
+      "min_size" : [ 0, 0 ],
+      "offset" : [ 44.0, -33.50 ],
+      "priority" : 0,
+      "propagate_alpha" : false,
+      "size" : [ 82, 69 ],
+      "type" : "panel",
+      "visible" : true
+   }
+}

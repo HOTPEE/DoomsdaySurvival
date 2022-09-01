@@ -1,0 +1,42 @@
+{
+  "Source": "空白AddOn",
+  "CreateVersion": "1.24.0.145396",
+  "EditVersion": "1.24.0.145396",
+  "OldEditCount": 34,
+  "NewEditCount": 0,
+  "OldComponents": [],
+  "Account": "a1621035369@163.com",
+  "UserName": "Pe_e",
+  "UserId": "9918",
+  "Id": "05b3c6bf28064ca5bbc0f7fd15469f7b",
+  "EditType": 4,
+  "IsMap": false,
+  "CreateNew": true,
+  "EditName": "DoomsdaySurvival",
+  "GameType": 1,
+  "WorldType": 1,
+  "Seed": "",
+  "BlockNums": [
+    0,
+    0
+  ],
+  "BornPoint": [
+    0,
+    0,
+    0
+  ],
+  "SaveBackMapPath": null,
+  "SaveBackAddOnPath": "F:\\MCStudioDownload\\work\\a1621035369@163.com\\Cpp\\AddOn\\05b3c6bf28064ca5bbc0f7fd15469f7b",
+  "EditAddOnPaths": [],
+  "EditMaterialPaths": [],
+  "EditLogFilePath": "F:\\MCStudioDownload\\work\\editor\\edit.log",
+  "ServerName": "EXPR",
+  "StudioPort": 12551,
+  "DCWebUrl": "https://x19apigatewayexpr.nie.netease.com",
+  "ShowGuide": false,
+  "AssertCacheDir": "F:\\MCStudioDownload\\EngineAssert",
+  "ElkUrl": "https://x19mclexpr.nie.netease.com/client-log",
+  "ShowGpuDriverTips": false,
+  "StudioTempPath": "F:\\MCStudioDownload\\temp\\editorTemp",
+  "EditorResourcePackPath": "F:\\MCStudio\\data\\inner_res"
+}
